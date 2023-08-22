@@ -1,0 +1,42 @@
+Sentences（句子篇）
+	I. Sentence Types（句子種類）
+	Simple Sentene（簡單句）
+	Compound Sentence（合句）
+	Complex Sentence（複句）
+		1. Complex Sentence With Comma（含有逗號的複句）
+		2. Complex Sentence Without Comma（不含有逗號的複句）
+		3. Split Indenpendent Clause（從屬子句位在獨立子句當中）
+	Compound-complex Sentence（複合句）
+	Direct Speech（直接引述）
+	Indirect Speech（間接引述）
+	II. Question（疑問句）
+		Establishing Location（位置）
+		Establishing Identity（身份）
+		Identity of Participant（參與者身份）
+		Asking for Definition（定義）
+		Establishing Time of Action（動作的時間）
+	III. Inversion（倒裝句）
+
+Parts of Speech（詞類篇）
+  Nouns（名詞）
+  Verbs（動詞）
+  Adjectives（形容詞）
+  Adverbs（副詞）
+  Prepositions（介系詞）
+  Conjunctions（連接詞）
+
+Tense（時態篇）
+	Present（現在）
+	Past（過去）
+	Future（未來）
+
+Voice（語態篇）
+	Passive Voice（被動語態）
+
+Mood（語氣篇）
+	Imperative（祈使語氣）
+	Subjunctive（假設語氣）
+	Exclamatory Sentence（感嘆句）
+
+Figure of Speech（修辭的手段）
+	
