@@ -1,21 +1,36 @@
 Sentences（句子篇）
 	I. Sentence Types（句子種類）
-	Simple Sentene（簡單句）
-	Compound Sentence（合句）
-	Complex Sentence（複句）
-		1. Complex Sentence With Comma（含有逗號的複句）
-		2. Complex Sentence Without Comma（不含有逗號的複句）
-		3. Split Indenpendent Clause（從屬子句位在獨立子句當中）
-	Compound-complex Sentence（複合句）
-	Direct Speech（直接引述）
-	Indirect Speech（間接引述）
-	II. Question（疑問句）
-		Establishing Location（位置）
-		Establishing Identity（身份）
-		Identity of Participant（參與者身份）
-		Asking for Definition（定義）
-		Establishing Time of Action（動作的時間）
-	III. Inversion（倒裝句）
+    Simple Sentene（簡單句）
+    Compound Sentence（合句）
+    Complex Sentence（複句）
+      1. Complex Sentence With Comma（含有逗號的複句）
+      2. Complex Sentence Without Comma（不含有逗號的複句）
+      3. Split Indenpendent Clause（從屬子句位在獨立子句當中）
+    Compound-complex Sentence（複合句）
+    Direct Speech（直接引述）
+	  Indirect Speech（間接引述）
+  II. Question（疑問句）
+    Establishing Location（位置）
+    Establishing Identity（身份）
+    Identity of Participant（參與者身份）
+    Asking for Definition（要求定義）
+    Establishing Time of Action（動作的時間）
+    Establishing Type（樣式）
+    Asking for Description（要求描述）
+    Establishing Ownership（擁有權）
+    Establishing Preference（喜好）
+    Establishing Method（方法）
+    Establishing Frequency（頻率）
+    Establishing Distance（距離）
+    For Suggestion（建議）
+    Establishing Duration（期間）
+    Seeking Agreement（徵求同意）
+  III. Inversion（倒裝句）
+    Inversion for Literary Effect（文學效果的倒裝）
+    For General Observation（一般觀察）
+    For the Uniquely Favored（唯一被喜愛）
+    Only for Specific Condition（特定的情況）
+    Perspective-Taking（提出的見解）
 
 Parts of Speech（詞類篇）
   Nouns（名詞）
