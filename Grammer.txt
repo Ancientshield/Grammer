@@ -1,15 +1,15 @@
 Sentences（句子篇）
-	I. Sentence Types（句子種類）
+	Sentence Types（句子種類）
     Simple Sentene（簡單句）
     Compound Sentence（合句）
     Complex Sentence（複句）
-      1. Complex Sentence With Comma（含有逗號的複句）
-      2. Complex Sentence Without Comma（不含有逗號的複句）
-      3. Split Indenpendent Clause（從屬子句位在獨立子句當中）
+      Complex Sentence With Comma（含有逗號的複句）
+      Complex Sentence Without Comma（不含有逗號的複句）
+      Split Indenpendent Clause（從屬子句位在獨立子句當中）
     Compound-complex Sentence（複合句）
     Direct Speech（直接引述）
 	  Indirect Speech（間接引述）
-  II. Question（疑問句）
+  Question（疑問句）
     Establishing Location（位置）
     Establishing Identity（身份）
     Identity of Participant（參與者身份）
@@ -25,7 +25,7 @@ Sentences（句子篇）
     For Suggestion（建議）
     Establishing Duration（期間）
     Seeking Agreement（徵求同意）
-  III. Inversion（倒裝句）
+  Inversion（倒裝句）
     Inversion for Literary Effect（文學效果的倒裝）
     For General Observation（一般觀察）
     For the Uniquely Favored（唯一被喜愛）
@@ -34,11 +34,72 @@ Sentences（句子篇）
 
 Parts of Speech（詞類篇）
   Nouns（名詞）
+	  For Brevity（簡潔）
+	  After Preposition（介系詞後）
+	  For Thought or Question（想法或提問）
+	  For Reaction（反應）
+    Verbs（動詞）
+    Adjectives（形容詞）
+    Adverbs（副詞）
+    Prepositions（介系詞）
+    Conjunctions（連接詞）
   Verbs（動詞）
-  Adjectives（形容詞）
-  Adverbs（副詞）
-  Prepositions（介系詞）
-  Conjunctions（連接詞）
+    Participle（分詞）
+      For Simultaneous Action（同時的動作）
+      For General Truth（一般事實）
+      For Limiting Proviso（限定的條件）
+      For Ameliorating Proviso（改善的附加條件）
+      For Balanced Judgement（平衡的判斷）
+      For Reason（表示原因）
+      For Condition（條件）
+      For Situational Advice（情境的建議）
+    Gerund（動名詞）
+      For Comment on Activity（活動上的評論）
+      For Comment on Situation（對情境的評論）
+      For Preferred Activity （偏好的活動）
+      For Relationship to Activity（相關的活動）
+      For Unavoidable Action（不可避免的動作）
+      For Function（功能）
+    Adjectives（形容詞）
+      For Indicating（指出）
+      For Modifying the Object（修飾受詞）
+      For Modifying the Subject（修飾主詞）
+      For Comment on Group（針對群體的評論）
+      For Comment on Attribute（針對特質的評論）
+      For Comparing（比較）
+      For The Best（最高級）
+      Multiple Adjective（數個形容詞）
+    Adverbs（副詞）
+      For Manner（行為）
+      For Degree（程度）
+      For Time（時間）
+      For Frequency（頻率）
+      For Place（地方）
+      For Cause（理由）
+      For Condition（條件）
+      Participle for Reason（分詞表原因或理由）
+    Prepositions（介系詞）
+      For Location（位置）
+      For Specifying by Position（透過位置指明）
+      For Time（時間）
+      For Opposition（反對）
+      For Topic（標題）
+      For Direction（方向）
+      For Source（來源）
+      For Excess（超越）
+      For Oath or Exclamation（誓約或驚叫）
+      For Favor（贊成）
+      For Duration（期間）
+      For Origin（起源）
+      For Separation（分離）
+      For Proximity（接近）
+      For Material or Attribute（材料或特質）
+      For Cause（理由）
+      For Reaction（反應）
+      For Titles（標題）
+      For Instrument（工具）
+      For Overcoming Condition（克服的狀況）
+    Conjunctions（連接詞）
 
 Tense（時態篇）
 	Present（現在）
