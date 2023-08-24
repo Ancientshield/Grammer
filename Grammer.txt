@@ -113,7 +113,18 @@ Parts of Speech（詞類篇）
       For Inverse Relationship（反向的關係）
 
 Tense（時態篇）
-	Present（現在）
+  Present（現在）
+    For Present Situation（現況）
+    For General Fact（一般事實）
+    For Continuous Present Action（現在進行）
+    For Regular Habit（習慣）
+    For Parallel Events（平行事件）
+    For Describing（描述）
+    For Preference（偏好）
+    Period to the Present（到現在還在持續）
+    For Two Uncoordinated Event（事件一正進行，事件二已完成）
+    For Emphasizing Completion（強調完成）
+    For Past Experience（過去的經驗）
 	Past（過去）
 	Future（未來）
 
