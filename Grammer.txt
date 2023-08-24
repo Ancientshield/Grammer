@@ -100,6 +100,17 @@ Parts of Speech（詞類篇）
       For Instrument（工具）
       For Overcoming Condition（克服的狀況）
     Conjunctions（連接詞）
+      For Overcoming Problem（克服問題）
+      For Proviso（附帶條件）
+      For emphasis of Two Elements（強調兩個成份）
+      For Addition（附加）
+      For Important Condition（重要的條件）
+      For Ignored Condition（忽略的條件）
+      For Prevention（預防）
+      For Cause and Effect（因果關係）
+      For Time（時間）
+      For Equivalence（相等）
+      For Inverse Relationship（反向的關係）
 
 Tense（時態篇）
 	Present（現在）
