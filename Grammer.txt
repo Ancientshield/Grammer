@@ -126,7 +126,22 @@ Tense（時態篇）
     For Emphasizing Completion（強調完成）
     For Past Experience（過去的經驗）
 	Past（過去）
+    For Past Habit（過去的習慣）
+    For Regular Past Habit（過去持續的習慣）
+    For Past Event（過去的事件）
+    For past simultaneous event（過去同時發生的兩件事）
+    For Relative Past Events（過去相關的事件）
+    For Earlier Event（過去較早發生的事件）
+    For Two Earlier Consecutive Event（過去接連發生的兩件事件）
+    For Conclusion to Past Period（過去完成進行式）
 	Future（未來）
+    For Future Event（未來事件）
+    For Future Plan（未來計畫）
+    For Imminent Future（未來即將發生）
+    For Relative Future Events（未來連結的事件）
+    For Future Period（未來預期完成）
+    For Anticipated Completion（未來預期完成）
+    For Expected Future Period（未來預期的未來一段時間）
 
 Voice（語態篇）
 	Passive Voice（被動語態）
