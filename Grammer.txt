@@ -144,12 +144,37 @@ Tense（時態篇）
     For Expected Future Period（未來預期的未來一段時間）
 
 Voice（語態篇）
-	Passive Voice（被動語態）
+  Passive Voice（被動語態）
+    For Emphasizing the Objective（強調受詞）
+    For Unknown Agent（未知主事者）
+    for Ironic Effect（反諷效果）
 
 Mood（語氣篇）
-	Imperative（祈使語氣）
-	Subjunctive（假設語氣）
+  Imperative（祈使語氣）
+    For Command（命令）
+    For Commanded State（狀態）
+    For Commanded Manner（行為）
+    Imperative for Proverb（格言）
+  Subjunctive（假設語氣）
+    For Well-Wishing or Curse（希望或詛咒）
+    For Unfulfilled Expectation（預期的結果）
+    For Preferred Choice（選擇）
+    For Concession（謙讓）
+    For Missed Opportunity（失去的機會）
+    For Impossible Wish（不可能的願望）
+    For Transforming Wish（轉變的願望）
 	Exclamatory Sentence（感嘆句）
 
 Figure of Speech（修辭的手段）
+	Simile（明喻）
+	Metaphor（隱喻）
+	Personification（擬人法）
+	Hyperbole（誇張）
+	Litote（反語、反述法）
+	Alliteration（頭韻）
+	Assonance（半韻）
+	Tricolon（三角龍，三節連環加強語氣法）
+	Onomatopoeia [ˌɒnǝmætǝˈpiːǝ]（擬聲字）
+	Rhetorical [rɪˈtɒrɪkḷ ] Question（修辭問句）
+	Pun（雙關語）
 	
