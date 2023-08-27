@@ -1,6 +1,32 @@
 Sentences（句子篇）
 	Sentence Types（句子種類）
     Simple Sentene（簡單句）
+      Affirmative [ǝˈfɝmǝtɪv ] Form（肯定句）
+        The president is speaking. 
+          Noun Phrases（名詞片語）
+            Definite Article（定冠詞）
+              The 
+            Noun（名詞）
+              president 
+          Verb Phrase（動詞片語）
+            Be Verb（Be 動詞）
+              is 
+            V-ing（現在分詞）
+              speaking.
+          John plays tennis regularly every weekend.
+          S    V     O      ADV       SC
+
+          Claire studied hard at math every day.
+          S      V       ADV Pre Noun SC
+      Negative Form（否定句）
+          The president isn't speaking.
+          John doesn't play tennis regularly every weekend.
+          Claire didn't study hard at math every day.
+      Question Form（疑問句）
+          Is the president speaking?
+          Does John play tennis regularly every weekend?
+          Did Claire study hard at math every day?
+
     Compound Sentence（合句）
     Complex Sentence（複句）
       Complex Sentence With Comma（含有逗號的複句）
